@@ -88,3 +88,17 @@ section{
     color: grey
     
 }
+.my{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+.section-2{
+    width: 1141px;
+    height: 202.96px;
+}
+ .div-5{
+    display: flex;
+    gap:30px;
+ }
