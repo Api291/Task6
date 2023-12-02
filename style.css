@@ -1,0 +1,90 @@
+/*header-section*/
+.header{
+    background-image: url(banner/banner3.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 1800px;
+}
+
+/*banner*/
+.banner3{
+    margin-left: 845px;
+    height: 700px;
+    width: 525px;
+}
+.banner-description{
+    width: 525px;
+    line-height: auto;
+    text-align: left;
+    text-align: top;
+    padding-top: 216px;
+    font-size: 30px;
+    font-family: work sans;
+}
+.banner-description-3{
+    width: 494px;
+    line-height: auto;
+    text-align: right;
+    text-align: top;
+    
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+/*button-section*/
+.button{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-1{
+    height: 64px;
+    width: 160px;
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+    border: none;
+    float: right;
+}
+.img{
+    width: 100%;
+
+}
+h1{
+    color: white;
+    font-weight: 64px;
+}
+
+div-2{
+    width: 1072px;
+    height: 723.3px;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    padding-left: 100px;
+}
+section{
+    background-color: white;
+    display: flex;
+    padding-top: 300px;
+    padding-right: 300px;
+    justify-content: center;
+    text-align: center;
+}
+.div-3{
+    font-size: 30px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.div-4{
+    width: 494px;
+    line-height: auto;
+    text-align: left;
+    text-align: top;
+    padding-left: 200px;
+    font-size: 20px;
+    color: grey
+    
+}
